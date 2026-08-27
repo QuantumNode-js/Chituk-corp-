@@ -1,7 +1,7 @@
 local KEY_URL = "https://ads.luarmor.net/get_key?for=Chituk_Corp-fpvZHMOmYbsR"
 local GameList = {
     ["9584852943"] = { id = "7f9182d20bef3b3adca16caf20147d3a", keyless = false }, -- +1 Speed Keyboard Escape
-    ["96342491571673"] = { id = "5eee87e4c19ca3ef3b1818603bac128b", keyless = false }, -- Steal An Egg
+    ["7709344486"] = { id = "5eee87e4c19ca3ef3b1818603bac128b", keyless = false }, -- Steal A Brainrot
 }
 local gameId = tostring(game.GameId)
 local CurrentGame = GameList[gameId]
